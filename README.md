@@ -3,7 +3,6 @@
 
 - 🌱 I’m currently learning **JavaScript, HTML, CSS, ...**
 
-- 💬 Ask me about **React Native**
 
 <br>
 <h2 align="left"><b>My Skills</b></h2>

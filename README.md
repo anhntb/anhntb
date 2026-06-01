@@ -74,9 +74,9 @@
 
 <br><br>
 <hr style="width: 50%; height:2px;"; align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anhntb&show_icons=true&locale=en&layout=compact" alt="anhntb" /></p>
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=anhntb&show_icons=true&locale=en&layout=compact" alt="anhntb" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anhntb&show_icons=true&locale=en" alt="anhntb" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=anhntb&show_icons=true&locale=en" alt="anhntb" /></p>
 
 <!--
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anhntb&" alt="anhntb" /></p>

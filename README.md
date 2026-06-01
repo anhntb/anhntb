@@ -1,7 +1,8 @@
 <h1 align="center">Hello 👋, I'm Bao Anh.</h1>
 <h3 align="center">A student at the University of Information Technology - VNUHCM from VietNam.</h3>
+<!-- Đây là comment -->
+<!-- - 🌱 I’m currently learning **JavaScript, HTML, CSS, ...** -->
 
-- 🌱 I’m currently learning **JavaScript, HTML, CSS, ...**
 
 
 <br>
